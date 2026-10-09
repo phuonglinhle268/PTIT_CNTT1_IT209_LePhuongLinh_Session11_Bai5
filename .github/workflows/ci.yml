@@ -62,4 +62,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository }}:latest
+          tags: ghcr.io/phuonglinhle268/ptit_cntt1_it209_lephuonglinh_session11_bai5:latest
